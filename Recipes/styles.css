@@ -1,0 +1,9 @@
+*{
+    background-color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image{
+    height: auto;
+    width: 250px;
+}
